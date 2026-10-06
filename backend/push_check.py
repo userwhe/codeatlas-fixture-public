@@ -1,5 +1,5 @@
 """Push check for automatic re-indexing (CodeAtlas validation)."""
 
 
-def push_check_17() -> int:
-    return 17
+def push_check_18() -> int:
+    return 18
