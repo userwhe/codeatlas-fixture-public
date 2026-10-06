@@ -11,3 +11,9 @@ TypeScript client are independent examples and are not wired together.
 - Private repositories require external-processing acceptance.
 - The fixture does not execute imported repositories.
 - There is no payment integration.
+
+## Re-indexing check
+
+After a new commit, manually re-index this repository in CodeAtlas.
+The new snapshot should include this section, while earlier answers should
+keep their original commit-specific citations.
